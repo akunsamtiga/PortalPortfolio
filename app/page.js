@@ -32,7 +32,7 @@ export default function HomePage() {
     Saya bantu kamu wujudkan website portofolio atau personal branding yang modern, cepat, dan siap tampilkan yang terbaik dari dirimu.
   </p>
   <a
-    href="https://wa.me/6281234567890"
+    href="https://wa.me/6281339908765"
     target="_blank"
     rel="noopener noreferrer"
     className="inline-flex items-center gap-3 bg-white text-blue-700 font-semibold text-lg px-6 py-3 rounded-full shadow-md hover:bg-blue-100 transition"
